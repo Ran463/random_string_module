@@ -1,0 +1,25 @@
+{
+  "name": "random_string_module",
+  "version": "0.10.0",
+  "description": "A module that returns alphanumeric strings",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ran463/random_string_module.git"
+  },
+  "keywords": [
+    "string",
+    "random",
+    "crypto",
+    "characters"
+  ],
+  "author": "Tejal Ranade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ran463/random_string_module/issues"
+  },
+  "homepage": "https://github.com/Ran463/random_string_module#readme"
+}
